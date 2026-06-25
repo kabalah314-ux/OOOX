@@ -9,8 +9,10 @@ apps tocables → cómo lo hago (la fábrica) → reserva de llamada.**
 ## Cómo se construye
 - **Método:** pipeline **`web-premium`** (orquesta narrativa → arte → assets IA → motion →
   ingeniería → deploy). NO usa molde (web inmersiva, se diseña de cero). Ver guía §5.7.
-- **Stack:** Next.js (App Router) + React Three Fiber + GSAP + Lenis · i18n ES/EN · Vercel.
+- **Stack:** Next.js (App Router, TS, Tailwind, Turbopack) + React Three Fiber + GSAP + Lenis ·
+  i18n ES/EN (next-intl) · Vercel.
 - **Plan de build por hitos y checkpoints:** guía §7.1 y §7.5.
+- **Entorno:** Node vía `nvm` (cargar con `. ~/.nvm/nvm.sh` antes de `npm`/`npx`).
 
 ## Reglas
 - Hereda las reglas comunes de `../CLAUDE.md` (autonomía, permiso para pagos/borrados/push/deploy,
@@ -21,5 +23,5 @@ apps tocables → cómo lo hago (la fábrica) → reserva de llamada.**
 - **Antes de dar foco público a chordflow:** rotar sus secretos expuestos.
 
 ## Estado
-- Guía maestra **completa** (Fases 00–07, veredicto 🟢 GO). Lista para construir.
-- Próximo: Hito 1 (setup Next.js + i18n + deploy en blanco).
+- Guía maestra **completa** (Fases 00–07, veredicto 🟢 GO). En construcción.
+- Hito 1 (setup Next.js + i18n) en curso. Detalle del plan en `GUIA-MAESTRA.md` §7.5.
