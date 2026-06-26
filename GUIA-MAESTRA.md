@@ -2,7 +2,7 @@
 
 > 🟢 **ACTIVA — ESTÁS AQUÍ · v0.1** · _edita solo aquí._
 > **Cadena de versiones:** **[v0.1 ·aquí]** 🟢 _(primera versión; al concluirla, ponla 🔒 CONCLUIDA y añade `👉 Continúa en <archivo>`)._
-> 📍 **Dónde estamos:** En construcción. **Hito 1 ✅** (Next.js 16 + Tailwind + i18n ES/EN + hero placeholder; build verde; /es y /en sirviendo). Próximo: **Hito 2 — dirección de arte** (espera el norte visual de Claude Design).
+> 📍 **Dónde estamos:** En construcción. **Hito 1 ✅ · Hito 2 ✅ · Hito 3 ✅** (sistema visual OOOX + Hero/Acto 1 completo; en producción: https://ooox.vercel.app). Próximo: **Hito 4 — Acto 2 (demos + casos)**: sneha embebida + tarjetas chordflow/BrokenHeart.
 > 🧭 **Índice:** [§0 Resumen](#0-resumen-ejecutivo) · [§1 Visión](#1-visión-y-concepto) · [§2 Usuarios y mercado](#2-usuarios-y-mercado) · [§3 Producto](#3-producto) · [§4 UX/UI](#4-experiencia-y-diseño-uxui) · [§5 Técnica](#5-arquitectura-técnica) · [§6 Negocio](#6-modelo-de-negocio) · [§7 Ejecución](#7-plan-de-ejecución) · [§8 GTM](#8-lanzamiento-y-crecimiento-go-to-market) · [§9 Validación](#9-validación) · [§10 Anexos](#10-anexos)
 
 | Campo | Valor |
