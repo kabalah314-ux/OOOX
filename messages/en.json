@@ -1,8 +1,12 @@
 {
   "hero": {
-    "eyebrow": "OOOX · Custom AI solutions",
-    "title": "Get your hours back. I solve it, simple and easy.",
-    "subtitle": "Websites, apps and automations with AI built for your business. Truly bespoke.",
-    "cta": "Book a call"
+    "eyebrow": "Product studio · Custom AI solutions",
+    "l1": "Manual work",
+    "l2": "steals your hours.",
+    "l3": "I give them back.",
+    "sub": "I build custom websites, apps and automations with AI for your small business. Truly tailor-made — simple and easy.",
+    "cta1": "Book a call",
+    "cta2": "Try live examples",
+    "scroll": "Scroll to see it in action"
   }
 }

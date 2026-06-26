@@ -1,8 +1,12 @@
 {
   "hero": {
-    "eyebrow": "OOOX · Soluciones de IA a medida",
-    "title": "Recupera tus horas. Te lo soluciono, simple y fácil.",
-    "subtitle": "Webs, apps y automatizaciones con IA hechas para tu negocio. A medida de verdad.",
-    "cta": "Reservar llamada"
+    "eyebrow": "Estudio de producto · Soluciones a medida con IA",
+    "l1": "El trabajo manual",
+    "l2": "te roba horas.",
+    "l3": "Yo te las devuelvo.",
+    "sub": "Creo webs, apps y automatizaciones a medida con IA para tu pyme. A medida de verdad — simple y fácil.",
+    "cta1": "Reservar llamada",
+    "cta2": "Ver ejemplos en vivo",
+    "scroll": "Desliza para verlo en acción"
   }
 }
